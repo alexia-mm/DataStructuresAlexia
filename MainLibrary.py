@@ -14,5 +14,3 @@ class ShowCreator:
         """
         self.folder_name = folder_name
         self.folder_path = folder_path
-
-    
